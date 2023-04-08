@@ -1,1 +1,1 @@
-<? echo"I love mommy;  ?>
+<? echo"I love mommy";  ?>
