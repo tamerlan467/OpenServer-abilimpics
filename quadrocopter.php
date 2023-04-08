@@ -5,7 +5,7 @@
 * Description: Cтраница "квадракоптеры" темы Квадракоптеров
 */
 ?>
-<?php get_header();?>
+<?php get_header();?>!
 <section class="mainContent">
       <div class="productRow"><!-- Each product row contains info of 3 elements -->
         <article class="productInfo"><!-- Each individual product description -->
