@@ -1,1 +1,1 @@
-<? echo"I love program write";  ?>
+<? echo"I love program write2";  ?>
