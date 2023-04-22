@@ -1,0 +1,160 @@
+.sfsiplus_footerLnk {
+    display: none;
+}
+.btn-primary{
+font-family: cursive;
+}
+#form_send {
+    display: flex;
+    flex-direction: column;
+    width: 335px;
+    border: 3px solid limegreen;
+    margin: 0 auto 75px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+#form_send input[type="submit"] {
+    background: limegreen;
+    color: white;
+    border-radius: 7px;
+    font-family: cursive;
+}
+
+#form_send input {
+    border: 2px solid limegreen;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#form_send label {
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#form_send textarea {
+    margin-top: 15px;
+    text-indent: 10px;
+}
+
+
+#form_reg {
+    display: flex;
+    flex-direction: column;
+    width: 335px;
+    border: 3px solid limegreen;
+    margin: auto;
+    padding: 10px;
+    font-family: cursive;
+    margin-bottom: 75px;
+}
+
+#form_reg input[type="submit"] {
+    background: limegreen;
+    border-radius: 7px;
+    color: white;
+    font-family: cursive;
+}
+
+#form_reg input {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid limegreen;
+}
+
+#form_reg label {
+    text-align: left;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#form_auth {
+    display: flex;
+    flex-direction: column;
+    width: 335px;
+    border: 3px solid limegreen;
+    margin: 15px auto 75px;
+    padding: 10px;
+    font-family: cursive;
+    margin-bottom: 75px;
+}
+
+#form_auth input[type="submit"] {
+    background: limegreen;
+    color: white;
+    border-radius: 7px;
+    font-family: cursive;
+}
+
+#form_auth input {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid limegreen;
+}
+
+#form_auth label {
+    text-align: left;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#form_profile {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    font-family: cursive;
+    margin-bottom: 75px;
+    border: 3px solid limegreen;
+}
+
+#form_profile input[type="submit"] {
+    background: limegreen;
+    color: white;
+    border-radius: 7px;
+    font-family: cursive;
+}
+
+#form_profile input {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid limegreen;
+}
+
+#form_profile label {
+    margin-right: 33px;
+    margin-top: 10px;
+    width: 143px;
+}
+
+.item,
+.item-password,
+.item-btn {
+    margin: auto;
+}
+
+.item img {
+    width: 150px;
+    margin-left: 50px;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+}
+
+.item-btn input {
+    margin-right: 10px;
+}
+
+.item-avatar {
+    margin-left: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.item-password input[type="password"]{
+    margin-left: 15px;
+}
